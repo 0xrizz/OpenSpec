@@ -166,3 +166,8 @@ opencode.json
 
 # Cursor
 .cursor/
+
+# Graphify
+graphify-out/
+.graphifyignore
+
